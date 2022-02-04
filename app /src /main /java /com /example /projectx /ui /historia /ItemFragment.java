@@ -20,7 +20,7 @@ import com.example.projectx.ui.historia.placeholder.PlaceholderContent;
  */
 public class ItemFragment extends Fragment {
 
-    // TODO: Customize parameter argument names
+    //Customize parameter argument names
     private static final String ARG_COLUMN_COUNT = "column-count";
     // TODO: Customize parameters
     private int mColumnCount = 1;
