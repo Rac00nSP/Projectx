@@ -5,13 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Clase auxiliar para proporcionar contenido de muestra para interfaces de usuario creadas por
- * Asistentes de plantillas de Android
- *
- * <p>
- * TOD: Reemplace todos los usos de esta clase antes de publicar su aplicación..
- */
+
 public class PlaceholderContent {
 
     /**
