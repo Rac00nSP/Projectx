@@ -1,6 +1,6 @@
-package com.example.projectx.ui.login.data;
+package com.example.projectx.ui.perfil.data;
 
-import com.example.projectx.ui.login.data.model.LoggedInUser;
+import com.example.projectx.ui.perfil.data.model.LoggedInUser;
 
 /**
  * Class that requests authentication and user information from the remote data source and

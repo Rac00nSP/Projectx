@@ -1,13 +1,13 @@
-package com.example.projectx.ui.login.ui.login;
+package com.example.projectx.ui.perfil.ui.login;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 import android.util.Patterns;
 
 import com.example.projectx.R;
-import com.example.projectx.ui.login.data.LoginRepository;
-import com.example.projectx.ui.login.data.Result;
-import com.example.projectx.ui.login.data.model.LoggedInUser;
+import com.example.projectx.ui.perfil.data.LoginRepository;
+import com.example.projectx.ui.perfil.data.Result;
+import com.example.projectx.ui.perfil.data.model.LoggedInUser;
 
 /*
 import com.example.projectx.ui.login.R;

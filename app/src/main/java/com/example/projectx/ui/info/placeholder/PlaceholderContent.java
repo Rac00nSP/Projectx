@@ -1,27 +1,32 @@
-package com.example.projectx.ui.historia.placeholder;
+package com.example.projectx.ui.info.placeholder;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-
+/**
+ * Helper class for providing sample content for user interfaces created by
+ * Android template wizards.
+ * <p>
+ * TODO: Replace all uses of this class before publishing your app.
+ */
 public class PlaceholderContent {
 
     /**
-     * Una matriz de elementos de muestra (marcador de posición).
+     * An array of sample (placeholder) items.
      */
     public static final List<PlaceholderItem> ITEMS = new ArrayList<PlaceholderItem>();
 
     /**
-     * Un mapa de elementos de muestra (marcador de posición), por ID
+     * A map of sample (placeholder) items, by ID.
      */
     public static final Map<String, PlaceholderItem> ITEM_MAP = new HashMap<String, PlaceholderItem>();
 
-    private static final int COUNT = 12;
+    private static final int COUNT = 25;
 
     static {
-        // Agregue algunos elementos de muestra.
+        // Add some sample items.
         for (int i = 1; i <= COUNT; i++) {
             addItem(createPlaceholderItem(i));
         }
@@ -30,7 +35,6 @@ public class PlaceholderContent {
     private static void addItem(PlaceholderItem item) {
         ITEMS.add(item);
         ITEM_MAP.put(item.id, item);
-
     }
 
     private static PlaceholderItem createPlaceholderItem(int position) {

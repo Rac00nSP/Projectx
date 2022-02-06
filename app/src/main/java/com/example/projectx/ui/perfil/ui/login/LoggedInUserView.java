@@ -1,4 +1,4 @@
-package com.example.projectx.ui.login.ui.login;
+package com.example.projectx.ui.perfil.ui.login;
 
 /**
  * Class exposing authenticated user details to the UI.

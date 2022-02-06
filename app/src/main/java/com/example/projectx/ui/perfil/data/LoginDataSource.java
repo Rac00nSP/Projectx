@@ -1,6 +1,6 @@
-package com.example.projectx.ui.login.data;
+package com.example.projectx.ui.perfil.data;
 
-import com.example.projectx.ui.login.data.model.LoggedInUser;
+import com.example.projectx.ui.perfil.data.model.LoggedInUser;
 
 import java.io.IOException;
 

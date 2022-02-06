@@ -1,11 +1,11 @@
-package com.example.projectx.ui.login.ui.login;
+package com.example.projectx.ui.perfil.ui.login;
 
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.annotation.NonNull;
 
-import com.example.projectx.ui.login.data.LoginDataSource;
-import com.example.projectx.ui.login.data.LoginRepository;
+import com.example.projectx.ui.perfil.data.LoginDataSource;
+import com.example.projectx.ui.perfil.data.LoginRepository;
 
 /**
  * ViewModel provider factory to instantiate LoginViewModel.
